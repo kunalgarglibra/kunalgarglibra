@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kunal Garg</h1>
-<h3 align="center">A passionate full-stack developer in Canada</h3>
+<h3 align="center">🤖Software Developer with a Passion for Machine Learning </h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/kunalgarglibra](https://github.com/kunalgarglibra)
 
